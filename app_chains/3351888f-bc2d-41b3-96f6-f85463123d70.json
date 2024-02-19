@@ -1,0 +1,8 @@
+{
+  "name": "safechain",
+  "logo": "https://i.imgur.com/HSQChoX.jpeg",
+  "rpc_url": "http://43.134.69.96:9944",
+  "explorer_url": "http://43.134.69.96:4000",
+  "metrics_endpoint": "http://43.134.69.96:9615/metrics",
+  "id": "3351888f-bc2d-41b3-96f6-f85463123d70"
+}
